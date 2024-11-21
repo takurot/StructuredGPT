@@ -1,0 +1,2 @@
+# StructuredGPT
+段階的な思考で深い考察をたてるGPTスクリプト
